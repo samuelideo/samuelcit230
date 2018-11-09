@@ -49,7 +49,10 @@ h1 {
 
 /*	Background Images - use with Small screens */
 
-.page-header {}
+.page-header {
+	background-image: url("/homework/responsive_media/images/grand-canyon_banner_small.jpg")
+	background-size: 100%;
+}
 
 
 /*******************************
