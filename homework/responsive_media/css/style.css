@@ -50,7 +50,7 @@ h1 {
 /*	Background Images - use with Small screens */
 
 .page-header{
-	background-image: url("/homework/responsive_media/raw-images/grand-canyon_banner_small.jpg");
+	background-image: url("samuelcit230/homework/responsive_media/raw-images/grand-canyon_banner_small.jpg");
 	
 }
 	
@@ -126,6 +126,7 @@ h1 {
 	display: block;
 	width: 100%;
 	height: auto;
+	background: url("/homework/responsive_media/raw-images/pack_mules.mov");
 }
 
 
